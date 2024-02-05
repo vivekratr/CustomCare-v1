@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import ChatUser from "../components/chatUser";
+import ChatUser from "../components/ChatUser";
 import axios from "axios";
 // import { saveAs } from "file-saver";
 import { useState, useRef } from "react";
